@@ -8,6 +8,6 @@
 > 在下面的列举中，reporoot指的是repo的根目录  
 **reporoot/testing** 正在测试的资源放置在这里  
 **reporoot/testing/crack** 正在测试的坡接资源放置在这里  
-**reporoot/readytotest** 这里是准备测试的资源==（不能保证三无！！！）==  
-**reporoot/untested** 这里是从网络上获取的资源，还未经测试==（不能保证三无！！！）==  
+**reporoot/readytotest** 这里是准备测试的资源**（不能保证三无！！！）**  
+**reporoot/untested** 这里是从网络上获取的资源，还未经测试**（不能保证三无！！！）**
 ## 好了，说明就到这里了，回头再进行补充
