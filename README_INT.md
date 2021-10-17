@@ -1,6 +1,6 @@
 # GitHub / PixelWine / PreferredSoft
 ## This article is in English
-(中文说明文档)[https://github.com/PixelWine/PreferredSoft/blob/master/README_CN.md]
+[中文说明文档](https://github.com/PixelWine/PreferredSoft/blob/master/README_CN.md)
 ## Why is there this repo?
 ### Nobel Prize winner James Tobin said: "Don't put eggs in a basket", so PixelWine built this warehouse.
 In order to prevent the loss of important software, in Lan Zuoyun (Mainland China), Nut Cloud (available in Mainland China), and GitHub repo (Mainland China is slow, it is generally not used to share resources, and all are uploaded or not tested. Time tested, the following will explain the usefulness of each folder), GitHub Releases (Mainland China is slow, here are tested, no Trojans, no viruses, no ads (hereinafter referred to as Sanwu) resources, if the link fails You can access this Releases to get it, a bit slow)
